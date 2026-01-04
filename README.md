@@ -54,7 +54,7 @@ Due to GitHub file size limitations, the Unreal Engine project files are hosted 
 ⚠️ Download the entire folder and open it using a compatible Unreal Engine version.
 
 🎥 Demo Video
-<img width="2306" height="1345" alt="image" src="https://github.com/user-attachments/assets/e10a31c4-e7cb-429b-b6dd-9989054d94d6" />
+<img width="2306" height="1345" alt="image" src="https://github.com/user-attachments/assets/58ac947d-826c-4a34-94ff-524a9819cbb0" />
 
 ▶️ Watch Project Demo on YouTube:
 🔗 https://youtu.be/rLjKV4MCWVc
