@@ -36,9 +36,25 @@ fps-simulation/
 │
 ├── vision/
 │   ├── laser_detection.py
+│   └── mouse_trigger.py
 │
 ├── unreal/
-│   └── FPS_Project_Files (https://drive.google.com/drive/folders/1oSWNEdQfQLGQxveZTbZg2Ur2jUxgT_uU)
+│   └── Unreal_Project_Files (External - Google Drive)
 │
 ├── README.md
 └── requirements.txt
+
+🎮 Unreal Engine Project Files (Google Drive)
+
+Due to GitHub file size limitations, the Unreal Engine project files are hosted externally.
+
+📁 Unreal Engine Project Folder:
+🔗 https://drive.google.com/drive/folders/1oSWNEdQfQLGQxveZTbZg2Ur2jUxgT_uU
+
+⚠️ Download the entire folder and open it using a compatible Unreal Engine version.
+
+🎥 Demo Video
+<img width="2306" height="1345" alt="image" src="https://github.com/user-attachments/assets/e10a31c4-e7cb-429b-b6dd-9989054d94d6" />
+
+▶️ Watch Project Demo on YouTube:
+🔗 https://youtu.be/rLjKV4MCWVc
