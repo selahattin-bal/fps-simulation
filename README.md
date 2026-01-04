@@ -1,6 +1,7 @@
 # 🎯 FPS Simulation V2
 
 > **Laser-based FPS Simulation using OpenCV & Unreal Engine**
+<img width="2306" height="1345" alt="image" src="https://github.com/user-attachments/assets/58ac947d-826c-4a34-94ff-524a9819cbb0" />
 
 A real-time FPS simulation project where **laser gun hits are detected via camera input** and translated into **mouse click events**, enabling interaction with a projected or on-screen Unreal Engine simulation.
 
@@ -54,7 +55,6 @@ Due to GitHub file size limitations, the Unreal Engine project files are hosted 
 ⚠️ Download the entire folder and open it using a compatible Unreal Engine version.
 
 🎥 Demo Video
-<img width="2306" height="1345" alt="image" src="https://github.com/user-attachments/assets/58ac947d-826c-4a34-94ff-524a9819cbb0" />
 
 ▶️ Watch Project Demo on YouTube:
 🔗 https://youtu.be/rLjKV4MCWVc
