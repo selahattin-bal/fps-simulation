@@ -36,7 +36,7 @@ fps-simulation/
 │
 ├── vision/
 │   ├── laser_detection.py
-│   └── mouse_trigger.py
+│  
 │
 ├── unreal/
 │   └── Unreal_Project_Files (External - Google Drive)
