@@ -2,6 +2,7 @@
 
 > **Laser-based FPS Simulation using OpenCV & Unreal Engine**
 <img width="2306" height="1345" alt="image" src="https://github.com/user-attachments/assets/58ac947d-826c-4a34-94ff-524a9819cbb0" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/bb126606-9229-4ee9-9038-8c2b33196bd4" />
 
 A real-time FPS simulation project where **laser gun hits are detected via camera input** and translated into **mouse click events**, enabling interaction with a projected or on-screen Unreal Engine simulation.
 
